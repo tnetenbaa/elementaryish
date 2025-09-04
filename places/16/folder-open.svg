@@ -32,7 +32,14 @@
      inkscape:window-x="489"
      inkscape:window-y="174"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg4372" /><defs
+     inkscape:current-layer="svg4372"><inkscape:page
+       x="0"
+       y="0"
+       width="16"
+       height="16"
+       id="page2"
+       margin="0"
+       bleed="0" /></sodipodi:namedview><defs
      id="defs4374"><linearGradient
        id="linearGradient1236"><stop
          id="stop1228"
@@ -116,10 +123,10 @@
        gradientTransform="matrix(0.29751073,0,0,0.2972973,0.85974673,-0.13911797)" /><linearGradient
        id="linearGradient4632-0-6-4-4-4"><stop
          offset="0"
-         style="stop-color:#efdfc4;stop-opacity:1"
+         style="stop-color:#64baff;stop-opacity:1;"
          id="stop4634-4-4-7-4" /><stop
          offset="1"
-         style="stop-color:#e7c591;stop-opacity:1"
+         style="stop-color:#3689e6;stop-opacity:1;"
          id="stop4636-3-1-5-9" /></linearGradient><linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4632-0-6-4-4-4"
@@ -172,7 +179,7 @@
      x="0.5"
      y="7.5"
      id="rect341"
-     style="color:#000000;font-variation-settings:normal;display:inline;overflow:visible;visibility:visible;opacity:1;vector-effect:none;fill:url(#linearGradient343);fill-opacity:1;fill-rule:nonzero;stroke:#987124;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5;-inkscape-stroke:none;marker:none;enable-background:accumulate;stop-color:#000000;stop-opacity:1" /><rect
+     style="color:#000000;font-variation-settings:normal;display:inline;overflow:visible;visibility:visible;opacity:1;vector-effect:none;fill:url(#linearGradient343);fill-opacity:1;fill-rule:nonzero;stroke:#0d52bf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.501961;-inkscape-stroke:none;marker:none;enable-background:accumulate;stop-color:#000000;stop-opacity:1" /><rect
      width="13"
      height="5"
      x="1.5"
