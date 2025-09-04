@@ -32,7 +32,16 @@
      inkscape:window-x="644"
      inkscape:window-y="101"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g122" />
+     inkscape:current-layer="g122">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="32"
+       height="32"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
   <defs
      id="defs4717">
     <linearGradient
@@ -206,11 +215,11 @@
        id="linearGradient4632-0-6-4-4-4">
       <stop
          offset="0"
-         style="stop-color:#efdfc4;stop-opacity:1"
+         style="stop-color:#64baff;stop-opacity:1;"
          id="stop4634-4-4-7-4" />
       <stop
          offset="1"
-         style="stop-color:#e7c591;stop-opacity:1"
+         style="stop-color:#3689e6;stop-opacity:1;"
          id="stop4636-3-1-5-9" />
     </linearGradient>
     <radialGradient
@@ -307,7 +316,7 @@
   <path
      id="rect5505-6-6"
      style="color:#000000;font-variation-settings:normal;display:inline;overflow:visible;visibility:visible;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:url(#linearGradient1572);stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;marker:none;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
-     d="M 29.5,16 V 9.5 c 0,-1.6619966 -1.338004,-3 -3,-3 H 15.326172 c -1.659551,0 -2.207314,-0.7727274 -3.028517,-1.4028589 C 11.801917,4.7167073 11.176321,4.499959 10.5,4.499959 h -5 c -1.6619968,0 -3,1.3380034 -3,3 v 8.499781"
+     d="M 29.5,16 V 9.5 c 0,-1.6619966 -1.338004,-3 -3,-3 H 15.326172 C 13.666621,6.5 13.118858,5.7272726 12.297655,5.0971411 11.801917,4.7167073 11.176321,4.499959 10.5,4.499959 h -5 c -1.6619968,0 -3,1.3380034 -3,3 v 8.499781"
      sodipodi:nodetypes="csssssssc" />
   <path
      id="rect5505-21-1-2-1"
@@ -320,7 +329,7 @@
      id="rect6741-7-4-3-8"
      sodipodi:nodetypes="ssssssssssssssssss" />
   <path
-     style="color:#000000;fill:#987124;fill-opacity:0.5;-inkscape-stroke:none"
+     style="color:#000000;fill:#0d52bf;fill-opacity:0.501961;-inkscape-stroke:none"
      d="m 4,14 c -1.9303495,0 -3.81734742,1.595915 -3.5,3.5 l 1.5,9 C 2.3173474,28.404085 3.5696505,30 5.5,30 h 21 c 1.930349,0 3.182653,-1.595915 3.5,-3.5 l 1.5,-9 C 31.817347,15.595915 29.930349,14 28,14 Z m 0,1 h 24 c 1.393647,0 2.729114,1.125315 2.5,2.5 l -1.5,9 C 28.770886,27.874685 27.893647,29 26.5,29 H 5.5 C 4.1063528,29 3.2291142,27.874685 3,26.5 l -1.5,-9 C 1.2708858,16.125315 2.6063528,15 4,15 Z"
      id="rect7802"
      sodipodi:nodetypes="ssssssssssssssssss" />
@@ -333,7 +342,7 @@
      transform="matrix(0.93252875,0,0,0.770553,-24.919638,-0.05424349)"
      style="display:inline;stroke-width:1.17969;enable-background:new">
     <path
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:0.6;vector-effect:none;fill:#7e5514;fill-opacity:0.971119;stroke:none;stroke-width:1.17969;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.498039;marker:none;enable-background:accumulate"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:0.6;vector-effect:none;fill:#14487e;fill-opacity:0.972549;stroke:none;stroke-width:1.17969;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.498039;marker:none;enable-background:accumulate"
        id="path181-5"
        d="M 49.681726,23.763769 48.949462,34.571381 H 36.641914 Z m -1.971598,4.237836 -5.437251,4.408254 h 5.020565 z" />
   </g>
